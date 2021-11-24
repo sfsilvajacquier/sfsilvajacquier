@@ -9,7 +9,7 @@
 <a href="https://github.com/sfsilvajacquier/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfsilvajacquier&theme=tokyonight" />
 </a><div align="right" valign="top" style="width:auto; margin:auto;">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jpmereaotermin/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="https://kaggle.com/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sfsilvajacquier/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="https://kaggle.com/sfsilvajacquier/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="30" /></a>
   </div></row>
 </body>
