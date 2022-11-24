@@ -1,6 +1,6 @@
 <body style="width:auto; margin:auto;">
 <h1 align="center">Santiago Federico Silva Jacquier</h1>
-<h1 align="center">Data scientist | Web development</h1>
+<h1 align="center">Data scientist | Bass player</h1>
 <p align="center">I'm passionate about coding and music! Always looking for new challenges for my development!</p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sfsilvajacquier)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sfsilvajacquier/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='about-dot-me' height='40'>](www.sfsilvajacquier.com.ar)  
